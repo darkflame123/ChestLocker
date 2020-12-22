@@ -25,4 +25,3 @@ jobs:
 
       - store_artifacts:
           path: target/Nukkit-PM1E.jar
-© 2020 GitHub, Inc.
